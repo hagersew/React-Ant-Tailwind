@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/compensation-calc/static/css/main.0dca3f30.css",
+    "main.js": "/compensation-calc/static/js/main.3e721a7b.js",
+    "static/js/787.c9a4b401.chunk.js": "/compensation-calc/static/js/787.c9a4b401.chunk.js",
+    "index.html": "/compensation-calc/index.html",
+    "main.0dca3f30.css.map": "/compensation-calc/static/css/main.0dca3f30.css.map",
+    "main.3e721a7b.js.map": "/compensation-calc/static/js/main.3e721a7b.js.map",
+    "787.c9a4b401.chunk.js.map": "/compensation-calc/static/js/787.c9a4b401.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dca3f30.css",
+    "static/js/main.3e721a7b.js"
+  ]
+}
