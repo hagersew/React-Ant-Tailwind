@@ -1,5 +1,19 @@
 ## React Ant Design TailwindCSS boilerplate
 
+A boilerplate is a starting point for building a React application. It typically includes the basic files and directories that are needed for a React application, as well as some basic code that can be used to get started.
+
+This boilerplate uses React, Ant Design, and Tailwind CSS. It includes the following:
+
+A basic React application
+An Ant Design theme
+A Tailwind CSS configuration
+A unit testing framework
+A linter
+
+The basic React application is a simple todo list application that uses Ant Design and Tailwind CSS. The unit testing framework is Jest, and the linter is ESLint.
+
+This boilerplate is a great starting point for building a React application. It includes all of the basic files and directories that are needed, as well as some basic code that can be used to get started.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
